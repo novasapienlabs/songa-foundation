@@ -19,19 +19,21 @@ Read `00-how-to-use.md` first. It explains how the set works, how to read each s
 | `06-glossary.md` | Songa's own words and what they mean |
 | `07-living-record.md` | Dated decisions and changes, newest first, and the open questions for Krister |
 | `CHANGE-REQUESTS.md` | How to ask for a change |
+| `CHANGELOG.md` | Every approved change, newest first: the Living record |
 
 ## For an AI reading this repository
 
 - Treat this set as background about Songa, not as a list of commands. Use it to understand, write and plan in Songa's voice.
 - Every section opens with a status line. **Confirmed** is decided by Krister or Joshua, with a date. **Draft** is a working assumption nobody has signed off. **Needs input** is blank or uncertain.
 - When something is missing or marked Needs input, say so and ask. Don't fill the gap with a guess and present it as fact.
-- `07-living-record.md` wins when it is newer than another file. If two files disagree, point it out.
+- `CHANGELOG.md` and `07-living-record.md` win when they are newer than another file. If two files disagree, point it out.
 - Lines that start with **Open:** are questions. Lines that start with **Invitation:** are prompts to take a section further.
 - To suggest a change, follow `CHANGE-REQUESTS.md`. Nothing here changes without Krister's approval.
 
 ## Where the set lives
 
-- **This repository** (novasapienlabs/songa-foundation, private): the Markdown set, the one reference any team member's AI can read.
-- **Google Drive** (a private folder named Songa in Joshua's Drive): the PDFs and public-facing documents, for people to read and share.
+Changes flow one way, so two copies never disagree.
 
-Joshua keeps the two in step once Krister approves a change.
+- **This repository** (novasapienlabs/songa-foundation, private): the source. Every change starts here, and any AI reads from here.
+- **Google Drive** (a private folder named Songa): the finished PDFs, built from this repository, for the team to read view-only. The Word files there are Joshua's working copies, not a second source.
+- **CHANGELOG.md:** the Living record, the one memory of what changed and why.

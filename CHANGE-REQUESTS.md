@@ -4,11 +4,17 @@ Anyone on the Songa team can ask for a change to this set. Joshua gathers the re
 
 ## How a change happens
 
-1. **Ask:** send Joshua what you'd change, where (file and section), and why. Say where it comes from: something Krister said, a document, a decision, or your own suggestion.
-2. **Review:** Joshua collects requests and brings them to Krister.
-3. **Decide:** Krister approves, adjusts or declines the change.
-4. **Update:** Joshua makes the approved change in this repository and in the Google Drive copies, so the two stay in step.
-5. **Record:** Joshua adds a dated line to `07-living-record.md`: date, what changed, who decided, where it came from.
+Changes flow one way: from this repository, the source, to the PDFs in Drive. Nobody edits the Drive copies directly. [Joshua, Nov 23, 2026]
+
+1. **Request:** send Joshua what you'd change, where (file and section), and why. Say where it comes from: something Krister said, a document, a decision, or your own suggestion.
+2. **Approve:** Joshua brings it to Krister, who approves, adjusts or declines it.
+3. **Update the source:** Joshua makes the approved change in this repository.
+4. **Log it:** Joshua adds a dated line to `CHANGELOG.md`: what changed, who asked, that Krister approved, and which Drive files were rebuilt.
+5. **Rebuild:** Joshua rebuilds the affected PDFs and replaces them in Drive.
+
+## Safety net
+
+A weekly check compares the edit dates of the Drive files with `CHANGELOG.md` and flags any edit that isn't logged. Flags go to Joshua first, and only real conflicts go to Krister. It isn't running yet.
 
 ## A good request
 

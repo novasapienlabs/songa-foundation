@@ -61,10 +61,15 @@ These documents are written so an AI assistant can work from them as well as a p
 
 *Status: confirmed · Source: Joshua, Nov 23, 2026*
 
-- Anyone on the team can request a change. Requests go to Joshua, and Krister approves them before they go in [Joshua, Nov 23, 2026].
-- Once a change is approved, Joshua makes it where it lives, keeps its status and source, and adds a dated line to the Living record.
-- When a section fills up, split it rather than let it sprawl.
-- Once a quarter, read the whole set and retire what is no longer true.
+Changes flow one way, from the source to the finished pieces, so two copies never disagree.
+
+1. **Request:** anyone on the team asks Joshua for a change.
+2. **Approve:** Krister approves it.
+3. **Update the source:** Joshua makes the change in the GitHub repository, keeping each section's status and source.
+4. **Log it:** Joshua adds a dated line to the Living record: what changed, who asked, that Krister approved, and which Drive files were rebuilt.
+5. **Rebuild:** Joshua rebuilds the affected PDFs and puts them in Drive.
+
+When a section fills up, split it rather than let it sprawl. Once a quarter, read the whole set and retire what is no longer true.
 
 **Invitation:** suggest whatever is missing. A section for partners' own stories, a page on the Boulder.live musical, a map of the websites: if it helps the team, it belongs here.
 
@@ -72,9 +77,10 @@ These documents are written so an AI assistant can work from them as well as a p
 
 *Status: confirmed · Source: Joshua, Nov 23, 2026*
 
-- **Google Drive:** a private folder named Songa in Joshua's Drive holds the PDFs and Word files, for people to read and share.
-- **GitHub:** the private repository novasapienlabs/songa-foundation holds the Markdown version of this set, as the one reference any team member's AI can read.
-- **Keeping them in step:** once Krister approves a change, Joshua updates the repository and the Drive copies together.
+- **GitHub, the source:** the private repository novasapienlabs/songa-foundation holds the Markdown set. Every change starts here, and any team member's AI reads from here.
+- **Google Drive, the finished pieces:** a private folder named Songa holds the PDFs built from the source, for the team to read view-only. The Word files are Joshua's working copies, not a second source.
+- **Memory:** the Living record, kept as CHANGELOG.md in the repository, is the one place that remembers what changed and why.
+- **Safety net:** a weekly check compares Drive's edit dates with the Living record and flags any edit that isn't logged. Flags go to Joshua first, and only real conflicts go to Krister. It isn't running yet.
 
 **Open:** Who gets access to each? Both are private to Joshua for now.
 

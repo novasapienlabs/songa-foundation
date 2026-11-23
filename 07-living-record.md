@@ -1,13 +1,14 @@
 # 7. Living record
 
-This is the memory of what Songa has decided and changed, newest first. Joshua adds a line whenever something is decided or a change is approved, so nobody has to remember it twice.
+This is the memory of what Songa has decided and changed, newest first, so nobody has to remember it twice. Its home is CHANGELOG.md in the repository, and this page mirrors it each time the PDFs are rebuilt.
 
-*Status: draft · How to add: date, what changed, who decided, where it came from.*
+*Status: confirmed · Source: Joshua, Nov 23, 2026 · Each approved change gets a line: date, what changed, who asked, that Krister approved, and which Drive files were rebuilt.*
 
 ## Decisions and changes
 
 | Date | What changed | Who | Source |
 |---|---|---|---|
+| Nov 23, 2026 | Updates flow one way: GitHub is the source, Drive holds view-only PDFs, the Living record is the one memory, and a weekly check flags unlogged Drive edits | Joshua | Joshua's message |
 | Nov 23, 2026 | Anyone on the team can request changes to this set; requests go to Joshua and Krister approves them | Joshua | Joshua's message |
 | Nov 23, 2026 | Krister signs off on documents and prices before they reach a partner | Joshua | Joshua's answer |
 | Nov 23, 2026 | Foundation set started: seven documents and this guide | Joshua | Joshua's request |
