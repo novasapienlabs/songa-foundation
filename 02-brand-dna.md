@@ -78,9 +78,11 @@ These are choices the team has made so far. They are habits, not laws, and they 
 
 ## The look
 
-*Status: draft · Sources: Songa Document Brand Guide v1.0 (proposed); Nov 23 notes*
+*Status: colours confirmed [Joshua, Nov 23, 2026]; the rest draft · Sources: Songa Document Brand Guide v1.0 (proposed); Nov 23 notes*
 
-- **Colours:** Paper #F7F2E8, Stage Ink #22222C, Signal Blue #243BC4, Dusk #604B7C, Warm Rule #D8CBB7.
+- **Primary colours:** Campfire Orange #FF6F61, Portal Blue #007AFF, Parchment White #FDFBF7, Charcoal Black #1C1C1C. Emotionally warm and creatively bold [Joshua, Nov 23, 2026].
+- **Secondary colours:** Smoke Gray #5B5B5B, Warm Beige #E8DCCF, and Golden Ember #FFB347, used sparingly as an accent [Joshua, Nov 23, 2026]. They replace the guide's earlier palette.
+- **Legibility:** small text stays in Charcoal Black or Smoke Gray. Campfire Orange and Golden Ember carry shapes and accents, and Portal Blue carries large type, lines and badges [inferred: contrast check, Nov 23].
 - **Type:** Georgia for titles, Arial for body text.
 - **Logo:** the new Flatirons Songa logo (received Nov 23) replaces the older colour logo with the St. Louis skyline.
 - **Design system:** "a quiet visual language for the work of bringing people together," with six badges: threshold, refrain, ensemble, listening, cue and curtain.

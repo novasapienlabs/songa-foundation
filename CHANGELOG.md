@@ -10,6 +10,7 @@ Add one line per approved change, at the top of the table. Say what changed, who
 
 | Date | What changed | Who asked | Approved by | Drive files rebuilt | Source |
 |---|---|---|---|---|---|
+| Nov 23, 2026 | New brand colours: Campfire Orange, Portal Blue, Parchment White, Charcoal Black; Smoke Gray, Warm Beige, Golden Ember as accent | Joshua |  | Brand guide, foundation, sponsorship and pricing, one-pager, How the Songa foundation works (PDF and Word) | Joshua's message |
 | Nov 23, 2026 | Updates flow one way: GitHub is the source, Drive holds view-only PDFs, the Living record is the one memory, and a weekly check flags unlogged Drive edits | Joshua |  |  | Joshua's message |
 | Nov 23, 2026 | Anyone on the team can request changes to this set; requests go to Joshua and Krister approves them | Joshua |  |  | Joshua's message |
 | Nov 23, 2026 | Krister signs off on documents and prices before they reach a partner | Joshua |  |  | Joshua's answer |

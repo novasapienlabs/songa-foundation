@@ -8,6 +8,7 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 
 | Date | What changed | Who | Source |
 |---|---|---|---|
+| Nov 23, 2026 | New brand colours: Campfire Orange, Portal Blue, Parchment White, Charcoal Black; Smoke Gray, Warm Beige, Golden Ember as accent | Joshua | Joshua's message |
 | Nov 23, 2026 | Updates flow one way: GitHub is the source, Drive holds view-only PDFs, the Living record is the one memory, and a weekly check flags unlogged Drive edits | Joshua | Joshua's message |
 | Nov 23, 2026 | Anyone on the team can request changes to this set; requests go to Joshua and Krister approves them | Joshua | Joshua's message |
 | Nov 23, 2026 | Krister signs off on documents and prices before they reach a partner | Joshua | Joshua's answer |
