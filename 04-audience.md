@@ -62,3 +62,12 @@ Someone who mainly wants to post the night on social media, or wants a ticket bo
 A family package was discussed and set aside as "not worth it" for the festival. Krister has also floated an apprenticeship idea for patrons' children and grandchildren.
 
 **Invitation:** if families come back into the picture, start here.
+
+## Who comes to Sundance, as Jenny sees it
+
+*Status: draft · Source: Jenny, Nov 23 call*
+
+- **Brands:** some come for big consumer activations. Others, like Adobe and Dropbox, want filmmakers to use their tools. Studios and platforms like Amazon want to meet tomorrow's big directors early.
+- **Community film events:** premieres and documentaries with good guest lists and small budgets. In Park City, restaurants quoted $8K to $20K food-and-drink minimums for 100 to 150 people; a simple space rented for $3K to $5K, with the renter's own food.
+- **The calendar:** the busy days are roughly Thursday to Monday of the first weekend. Wednesday is the slowest day.
+- **The best fit:** a party hosted by SONGA.LIVE, with the partner bringing the guest list.

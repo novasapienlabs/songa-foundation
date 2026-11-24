@@ -1,6 +1,6 @@
 # 5. Roles and team
 
-Krister leads Songa, and most other roles are still to be named. This document is the place to name them.
+Krister leads Songa. Steve and Jenny joined the Nov 23 call in their roles, and most other roles are still to be named. This document is the place to name them.
 
 ## Who does what
 
@@ -13,11 +13,14 @@ Songa has chosen to keep founder and team names out of public pieces. This is an
 | Lead | Vision, partnerships, final say on Songa, approves changes to this set | Krister | confirmed |
 | Platform | Songa's website platform, accounts and payments | Krister, with Joshua from about Dec 1 | draft |
 | Operations and documents | Keeps this set and gathers change requests; the pitch and pricing documents, brand systems | Joshua (NovaSapien Labs) | draft |
-| Sales | Selling partner packages and credentials by phone | A small group Krister named on Nov 19 | needs input |
+| Production | Technical producer and production manager; consulted on everything technical, event-wide | Steve Vidaic | draft [Nov 23 call] |
+| Programming | Programming and scheduling the space; executive co-producer; selling with Krister | Jennifer 8. Lee (Jenny) | draft [Nov 23 call] |
+| Production and programming partner | Works with Krister and Steve on the run of show, food and the venue; WhatsApp group with Steve | L'Oreal (name as heard on the call) | needs input |
+| Sales | Selling partner packages and credentials by phone | A small group Krister named on Nov 19, with Jenny | needs input |
 | Writers' room | Stories, characters, the book | A co-writer Krister named | needs input |
 | Characters | Deciding who the characters become | A lead Krister named | needs input |
 | Music | The band and the Songa circle | | needs input |
-| Podcast | Hosting the jamversations | | needs input |
+| Podcast | Hosting the Jamversations | | needs input |
 | Cameras and studio | 8 to 12 roving cameras, the TV show, assets within an hour | | needs input |
 | Street team | Takes Songa onto the streets, including a character posing as an "intrepid journalist" | | needs input [Krister, Nov 23] |
 | Nonprofit and legal | Entities, permits, tax questions | | needs input |

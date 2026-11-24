@@ -71,7 +71,7 @@ Changes flow one way, from the source to the finished pieces, so two copies neve
 
 When a section fills up, split it rather than let it sprawl. Once a quarter, read the whole set and retire what is no longer true.
 
-**Invitation:** suggest whatever is missing. A section for partners' own stories, a page on the Boulder.live musical, a map of the websites: if it helps the team, it belongs here.
+**Invitation:** suggest whatever is missing. A section for partners' own stories, a page on the BOULDER.LIVE musical, a map of the websites: if it helps the team, it belongs here.
 
 ## Where the set lives
 

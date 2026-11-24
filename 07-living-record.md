@@ -8,6 +8,15 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 
 | Date | What changed | Who | Source |
 |---|---|---|---|
+| Nov 24, 2026 | New $30K Party package: 12 credentials, 100 guests, 45-minute podcast slot; Small party ($20K) now 50 guests; table prices shown as $2.5K to $100K+ | Krister, via Joshua | Joshua's message |
+| Nov 23, 2026 | Sponsor deck look: white pages, Portal Blue with a light blue tint, Campfire Orange as the accent; palette confirmed as Songa's own | Krister | Nov 23 call |
+| Nov 23, 2026 | Name style: SONGA.LIVE, the SONGA.LIVE House and BOULDER.LIVE in capitals across the board; "the Creator within"; The WORLD OF SONGA; members, never VIP | Krister | Nov 23 call |
+| Nov 23, 2026 | Individual package goes to $2,500 for two credentials; "$500 per day" list price removed from member-facing pieces | Krister | Nov 23 call |
+| Nov 23, 2026 | Partner packages: private room or conversation space (4 hours, subject to availability); custom song; Patron line under Large party; Small party column highlighted; $100,000+ | Krister | Nov 23 call |
+| Nov 23, 2026 | About 30 wording changes to the sponsor deck and one-pager, page by page (see the meeting notes) | Krister | Nov 23 call |
+| Nov 23, 2026 | Riverside back in play (about 800 people, decision by Dec 15); members' lounge (bird's nest) kept for members; members use the back door, the public the front door | Krister | Nov 23 call |
+| Nov 23, 2026 | Credential is a physical badge on a plain lanyard | Krister | Nov 23 call |
+| Nov 23, 2026 | Other package prices wait for Krister's voice memo after he and Steve cost each benefit | Krister and Steve | Nov 23 call |
 | Nov 23, 2026 | New brand colours: Campfire Orange, Portal Blue, Parchment White, Charcoal Black; Smoke Gray, Warm Beige, Golden Ember as accent | Joshua | Joshua's message |
 | Nov 23, 2026 | Updates flow one way: GitHub is the source, Drive holds view-only PDFs, the Living record is the one memory, and a weekly check flags unlogged Drive edits | Joshua | Joshua's message |
 | Nov 23, 2026 | Anyone on the team can request changes to this set; requests go to Joshua and Krister approves them | Joshua | Joshua's message |
@@ -33,15 +42,20 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 1. **Entities:** what are the legal names of the nonprofit and the for-profit, and which one sells credentials?
 2. **Budget:** what does the festival cost to run, and what revenue counts as success?
 3. **Front door:** which of Songa's 30 or more websites is the front door, and which should be retired?
-4. **12 or 13 days:** Jan 19 to 31 is 13 days. Should the credential stay "All 12 Days" or be renamed? It stays "All 12 Days" until Krister decides.
+4. **12 or 13 days:** Jan 19 to 31 is 13 days. Should the credential stay "All 12 Days" or be renamed? It stays "All 12 Days" until Krister decides. On the Nov 23 call he said "12 or 13 days, or whatever", so it is still open.
 5. **Sundance mark:** the Sundance Institute official partner mark and the full brand pack, asked for by email on Nov 23. The file in hand is the festival's own logo.
 
 ## Still open
 
 *Status: needs input · Each line moves to the table above once it's settled.*
 
-- Whether the Individual package at $2K for two credentials is intended.
-- Credential caps, podcast slots per day, and the secret lounge.
+- Credential caps (Krister decides in 2 to 3 weeks, after Riverside), podcast slots per day, and the secret lounge (Krister is asking Odd Fellows about the basement).
+- Riverside: a deal by Dec 15 would change capacity; Krister will update the team before his retreat.
+- Food and drink: whether food can be cooked in the building, food trucks, and how credential holders' food is billed.
+- Whether one-day memberships can be sold inside the house (Krister's question for Sundance).
+- What each package benefit costs to deliver, and the new prices (Krister's voice memo).
+- The Patron and investor packages page, kept separate until finalised.
+- Whether the 415 fire-code figure holds.
 
 ## Earlier history
 
