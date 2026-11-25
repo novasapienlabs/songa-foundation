@@ -8,6 +8,9 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 
 | Date | What changed | Who | Source |
 |---|---|---|---|
+| Nov 24, 2026 | 2027 Official Partner Seal replaces the 2027 Festival logo on the covers; "Sundance" alone changed to "Sundance Film Festival" or "Sundance Institute", year first, per the 2027 activation guide | Joshua | Joshua's message |
+| Nov 24, 2026 | Packages renamed to the house theme: Guest Room ($2.5K), Tiny House, Small House, Medium House, Large House, The Whole House ($100K+); new deck headlines "The SONGA.LIVE House" and "SONGA is our house, and yours." | Joshua | Joshua's message |
+| Nov 24, 2026 | New deck design: Parchment pages with white cards, bigger type, 8 pages; bold white sans on orange | Joshua, with Krister's note on orange | Joshua's message |
 | Nov 24, 2026 | New $30K Party package: 12 credentials, 100 guests, 45-minute podcast slot; Small party ($20K) now 50 guests; table prices shown as $2.5K to $100K+ | Krister, via Joshua | Joshua's message |
 | Nov 23, 2026 | Sponsor deck look: white pages, Portal Blue with a light blue tint, Campfire Orange as the accent; palette confirmed as Songa's own | Krister | Nov 23 call |
 | Nov 23, 2026 | Name style: SONGA.LIVE, the SONGA.LIVE House and BOULDER.LIVE in capitals across the board; "the Creator within"; The WORLD OF SONGA; members, never VIP | Krister | Nov 23 call |
@@ -43,7 +46,20 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 2. **Budget:** what does the festival cost to run, and what revenue counts as success?
 3. **Front door:** which of Songa's 30 or more websites is the front door, and which should be retired?
 4. **12 or 13 days:** Jan 19 to 31 is 13 days. Should the credential stay "All 12 Days" or be renamed? It stays "All 12 Days" until Krister decides. On the Nov 23 call he said "12 or 13 days, or whatever", so it is still open.
-5. **Sundance mark:** the Sundance Institute official partner mark and the full brand pack, asked for by email on Nov 23. The file in hand is the festival's own logo.
+5. **Sundance mark:** Joshua sent the 2027 Official Partner Seal on Nov 24 and it is on the covers. Joshua confirmed the Seal and the blue cover on Nov 24. The Sundance account lead still has to approve the use (five business days).
+
+## Sundance rules to settle (from the 2027 activation guide, Nov 24)
+
+These come from Sundance's own guide. They are for Krister to settle with Songa's Sundance account lead, not for us to decide.
+
+1. **Approval:** every use of a Sundance logo or name goes to the account lead first, allowing five business days. The deck, one-pager and foundation need sending.
+2. **Seal rules:** clear space, minimum size and allowed backgrounds for the Official Partner Seal are in the Festival brand guidelines, which we haven't seen. The Institute's own logo rule is at least 1.25 in wide in print and never on a background of a similar colour. The one-pager's Seal is about 0.7 in, and the foundation cover puts the black Seal on a near-black page.
+3. **Which partner level:** the Seal is for Festival sponsors and, in some cases, other partners. Songa's contract decides.
+4. **Dates:** the 2027 Sundance Film Festival runs January 21 to 31. Songa's dates are January 19 to 31, shown next to "the 2027 Sundance Film Festival".
+5. **Public or private venue:** only Festival sponsors may run a public venue. Other partners run a private venue: entry by guest list, pass or ticket, no wide publicity and no exterior signage. The deck says entry to the SONGA.LIVE House is free.
+6. **Brands that buy Songa packages:** a brand outside Sundance's partner list that uses Sundance trademarks needs a pass-thru fee to Sundance Institute, and can't clash with a sponsor's category or a restricted category.
+7. **Drinks:** Sundance asks partners to pour its official alcohol sponsors where possible; any other alcohol brand gets no branding beyond the product itself.
+8. **Streets of Boulder:** activity on public streets needs a city permit, and during the Festival only official affiliates can apply. The deck already says "pending permission".
 
 ## Still open
 
@@ -52,7 +68,7 @@ This is the memory of what Songa has decided and changed, newest first, so nobod
 - Credential caps (Krister decides in 2 to 3 weeks, after Riverside), podcast slots per day, and the secret lounge (Krister is asking Odd Fellows about the basement).
 - Riverside: a deal by Dec 15 would change capacity; Krister will update the team before his retreat.
 - Food and drink: whether food can be cooked in the building, food trucks, and how credential holders' food is billed.
-- Whether one-day memberships can be sold inside the house (Krister's question for Sundance).
+- Whether one-day memberships can be sold inside the house (Krister's question for Sundance Institute).
 - What each package benefit costs to deliver, and the new prices (Krister's voice memo).
 - The Patron and investor packages page, kept separate until finalised.
 - Whether the 415 fire-code figure holds.

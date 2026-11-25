@@ -51,7 +51,7 @@ Songa has its own words. Using them the same way helps the team sound like one v
 | culture capitalism | Krister's name for the model behind the Patron's Pledge | needs input |
 | pay for performance philanthropy | Giving tied to results, part of the same idea | needs input |
 | patron investor | Someone who backs Songa as both patron and investor | needs input |
-| Patron | The top of the Large party package: membership and benefits after Sundance, and an annual membership for the partner's community | draft [Krister, Nov 23 call] |
+| Patron | The top of The Whole House package: membership and benefits after the Sundance Film Festival, and an annual membership for the partner's community | draft [Krister, Nov 23 call] |
 | revillage | To bring back the village: belonging made by creating together | confirmed |
 
 ## Story and stance

@@ -26,7 +26,7 @@ Songa is the feeling of wonder, awe and grace when artistic beauty quiets a room
 | Make media social again | The media promise | draft [Songa foundation] |
 | We're not on social media, but we are very social | The off-grid stance | draft [Songa foundation] |
 | Where we awaken / the Creator within | The closing line, with "the Creator within" on its own line | confirmed [Krister, Nov 23 call] |
-| A never-before-in-Sundance-history experience | Right under the SONGA.LIVE House name | confirmed [Krister, Nov 23 call] |
+| A first in Sundance Film Festival history (was "A never-before-in-Sundance-history experience", changed Nov 24 to follow the Sundance naming rule) | Right under the SONGA.LIVE House name | confirmed [Krister, Nov 23 call] |
 
 ## How Songa sounds
 
@@ -56,6 +56,7 @@ These are choices the team has made so far. They are habits, not laws, and they 
 | members, credential holders | VIP | VIP "creates a two-level structure" [Krister, Nov 23 call] |
 | SONGA.LIVE, the SONGA.LIVE House, BOULDER.LIVE | songa.live, Songa.Live, the songa.live house | All capitals, with House capitalised, across the board [Krister, Nov 23 call] |
 | The WORLD OF SONGA | the world of songa.live | For the booking line, without ".live" [Krister, Nov 23 call] |
+| Sundance Film Festival, Sundance Institute, "2027 Sundance Film Festival" | "Sundance" on its own | Sundance Institute's own rule for partners, year first for the festival [2027 activation guide, Nov 24] |
 | the Creator | the creator | Written like a proper noun [Krister, Nov 23 call] |
 | an environment | an event | "You're creating an environment, not an event" [Krister, Nov 23] |
 | the space first | the person first | Lead with the place, then who is in it [Krister, Nov 23] |

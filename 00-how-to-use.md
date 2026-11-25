@@ -23,6 +23,7 @@ It is not a rulebook. Think of it as the notes of a long conversation, written d
 | 5 | Roles and team | Who does what and how decisions get made | need to know who to ask |
 | 6 | Glossary | Songa's own words and what they mean | meet a term you don't know |
 | 7 | Living record | Dated decisions and changes, newest first | want to know what changed and when |
+| 8 | The Songa story | The manifesto, a walk through a night at the SONGA.LIVE House, where Songa comes from, and questions for Krister (draft, Nov 25) | want the feeling before the facts |
 
 ## How to read a section
 
@@ -40,7 +41,7 @@ Sources sit in brackets, like [Krister, Nov 19 talk] or [Sponsorship and pricing
 
 *Status: draft*
 
-1. Start with Vision and strategy, then Brand DNA. Together they take ten minutes and give you the feeling of the whole.
+1. Start with The Songa story for the feeling, then Vision and strategy and Brand DNA. Together they take fifteen minutes and give you the whole picture.
 2. Use Facts and figures and the Glossary as reference. Check them before anything goes out.
 3. If you know the answer to an **Open:** line, send it to Joshua as a change request. Once Krister approves it, Joshua writes it in, marks it confirmed and adds a dated line to the Living record.
 4. If something here feels wrong, say so. A correction is the most useful request you can send.
@@ -79,6 +80,7 @@ When a section fills up, split it rather than let it sprawl. Once a quarter, rea
 
 - **GitHub, the source:** the private repository novasapienlabs/songa-foundation holds the Markdown set. Every change starts here, and any team member's AI reads from here.
 - **Google Drive, the finished pieces:** a private folder named Songa holds the PDFs built from the source, for the team to read view-only. The Word files are Joshua's working copies, not a second source.
+- **Drive layout (from Nov 24):** FINAL DOCUMENTS holds the finished pieces. Pieces still being edited sit at the top of the Songa folder as Google Docs named "ACTIVE EDIT - ...", where Krister's and Joshua's edits collect; their current PDFs and Word files wait in Working files. When the edits are done, they are folded into this source, the pieces are rebuilt, and the new PDFs go into FINAL DOCUMENTS. "Before ..." subfolders keep earlier versions.
 - **Memory:** the Living record, kept as CHANGELOG.md in the repository, is the one place that remembers what changed and why.
 - **Safety net:** a weekly check compares Drive's edit dates with the Living record and flags any edit that isn't logged. Flags go to Joshua first, and only real conflicts go to Krister. It isn't running yet.
 

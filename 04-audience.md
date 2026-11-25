@@ -19,7 +19,7 @@ Songa speaks to people who want beauty and belonging in their lives: patrons who
 | Group | Who they are | What they want | What Songa gives them | How they buy | Status |
 |---|---|---|---|---|---|
 | Patrons | Families and family offices, some with around $100M, who want "beauty in their lives" | Meaning, beauty, a legacy | A seat at the creative table; the Patron's Pledge | By phone, through a relationship | draft [Krister, Nov 18] |
-| Partners | Brands, studios and independent filmmakers, some on smaller budgets | Visibility at Sundance, content, a place to host | Partner packages, private rooms, assets within an hour | Direct group sales by phone | confirmed [Sponsorship and pricing, Nov 23] |
+| Partners | Brands, studios and independent filmmakers, some on smaller budgets | Visibility at the Sundance Film Festival, content, a place to host | Partner packages, private rooms, assets within an hour | Direct group sales by phone | confirmed [Sponsorship and pricing, Nov 23] |
 | Credential holders | Festival-goers and industry people | A home base during the festival, people to meet | Skip the line, food and drink, a chance to perform | By phone, into a Songa account | confirmed [Sponsorship and pricing, Nov 23] |
 | Donors | People giving roughly $5K to $50K | To pay and house artists | A direct line between their gift and an artist's income | needs input | draft [Krister, Nov 18] |
 | Investors | People backing the for-profit side | A return, pledged back to the nonprofit | The Patron's Pledge | needs input | needs input [Krister, Nov 18] |
@@ -28,20 +28,20 @@ Songa speaks to people who want beauty and belonging in their lives: patrons who
 
 **Open:** Which group matters most for the festival, and which for the long run?
 
-## Sundance as a channel
+## Sundance Institute as a channel
 
 *Status: draft · Source: Krister, email, Nov 18*
 
-Krister reported that Sundance will funnel lead flow to Songa, and a sponsor package request came in the same day.
+Krister reported that Sundance Institute will funnel lead flow to Songa, and a sponsor package request came in the same day.
 
-**Open:** What kind of leads come through Sundance, and who answers them?
+**Open:** What kind of leads come through Sundance Institute, and who answers them?
 
 ## What moves each group
 
 *Status: draft · Source: [inferred] from the talks and documents*
 
 - **Patrons:** a personal invitation, the story of the artists their gift supports, and the feeling of being a peer, not a donor.
-- **Partners:** being seen at Sundance in a way nobody else offers, and content they own within the hour.
+- **Partners:** being seen at the Sundance Film Festival in a way nobody else offers, and content they own within the hour.
 - **Credential holders:** a time, a place and a reason to meet again.
 - **Artists:** fair pay and being treated as co-creators.
 
@@ -63,7 +63,7 @@ A family package was discussed and set aside as "not worth it" for the festival.
 
 **Invitation:** if families come back into the picture, start here.
 
-## Who comes to Sundance, as Jenny sees it
+## Who comes to the Sundance Film Festival, as Jenny sees it
 
 *Status: draft · Source: Jenny, Nov 23 call*
 

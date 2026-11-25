@@ -4,7 +4,7 @@ The SONGA.LIVE House runs January 19 to 31, 2027, at the Odd Fellows building on
 
 Check a fact here before it goes out. When one changes, change it here and add a line to the Living record.
 
-## The SONGA.LIVE House at Sundance
+## The SONGA.LIVE House at the 2027 Sundance Film Festival
 
 *Status: confirmed unless marked · Sources as marked*
 
@@ -36,7 +36,7 @@ Check a fact here before it goes out. When one changes, change it here and add a
 - **Cameras:** 8 to 12 roving cameras, projected into the room.
 - **Assets:** all video and music assets within an hour of stepping off the microphones, ready to clip.
 - **Food and drink:** free for credential holders, inside or from food trucks. Whether food can be cooked in the building is still being checked with Odd Fellows (no hood; warming is fine) [Nov 23 call].
-- **Tickets:** Sundance doesn't allow public ticket sales. Krister is asking Sundance whether a one-day membership can be sold inside the house [Nov 23 call].
+- **Tickets:** Sundance Institute doesn't allow public ticket sales. Krister is asking Sundance Institute whether a one-day membership can be sold inside the house [Nov 23 call].
 
 **Open:** How many podcast slots run each day?
 
@@ -63,23 +63,25 @@ The $500 list price stays here for working out savings, but member-facing pieces
 
 | Package | Price | Credentials | Guests |
 |---|---|---|---|
-| Individual | $2.5K | 2 (each First Half or Second Half) | |
-| Group | $10K | 8 | |
-| Small party | $20K | 10 | 50 |
-| Party | $30K | 12 | 100 |
-| Medium | $50K | 15 | 150 |
-| Large | $100K and up | 30 | 250 |
+| Guest Room | $2.5K | 2 (each First Half or Second Half) | |
+| Tiny House | $10K | 8 | |
+| Small House | $20K | 10 | 50 |
+| Medium House | $30K | 12 | 100 |
+| Large House | $50K | 15 | 150 |
+| The Whole House | $100K and up | 30 | 250 |
 
-- A private room or conversation space for 4 hours comes with Group and up, subject to availability.
-- Turnkey event planning (food, music, 8-camera shoot) comes with Small party and up.
+- A private room or conversation space for 4 hours comes with Tiny House and up, subject to availability.
+- Turnkey event planning (food, music, 8-camera shoot) comes with Small House and up.
 - All assets within an hour from $20K.
 - At $50K and $100K, the partner's brand is woven into BOULDER.LIVE, with a custom song for the film or brand.
-- Large party adds Patron: ongoing membership and benefits after Sundance, and an annual membership for the partner's community. Patron and investor packages will get their own page once Krister and Joshua finalise them.
-- The Small party column ($20K) is the one the deck highlights.
+- The Whole House adds Patron: ongoing membership and benefits after the Sundance Film Festival, and an annual membership for the partner's community. Patron and investor packages will get their own page once Krister and Joshua finalise them.
+- The Small House column ($20K) is the one the deck highlights.
 - Podcast slot: 30 minutes at $20K, 45 minutes at $30K, 1 hour at $50K and up. The deck's table shows prices as $2.5K to $100K+ [Krister, via Joshua, Nov 24].
 - Every package can be tailored. Renting the house outright is rare.
 
-**Settled:** Individual is $2,500 for two credentials [Krister, Nov 23 call].
+**Settled:** Guest Room (formerly Individual) is $2,500 for two credentials [Krister, Nov 23 call].
+
+**Settled:** Package names follow the house theme, smallest to largest: Guest Room, Tiny House, Small House, Medium House, Large House, The Whole House [Joshua, Nov 24].
 
 **Open:** Steve thinks some packages may cost more to deliver than they sell for. He and Krister will cost each benefit, and Krister will send new prices by voice memo. Until then, only the Individual price has changed [Nov 23 call].
 
@@ -93,7 +95,8 @@ The $500 list price stays here for working out savings, but member-facing pieces
 | Colorado entity | To be set up | needs input |
 | Nonprofit mission | Sustainable income for artists | confirmed |
 | For-profit side | Named in talks, not yet written down | needs input |
-| Sundance | Treated as an official partner of the Sundance Institute | confirmed [Joshua, Nov 19 decision] |
+| Sundance Institute | Treated as an official partner of Sundance Institute; the 2027 Official Partner Seal goes on the covers | confirmed [Joshua, Nov 19 decision; Seal, Nov 24] |
+| Sundance naming | Write "Sundance Film Festival" or "Sundance Institute", never "Sundance" alone; put the year first ("2027 Sundance Film Festival"); no "the" before Sundance Institute; Festival takes a capital even alone; hashtag #SundanceFilmFestival only. Every use of a Sundance logo or name goes to Songa's Sundance account lead for approval, allowing five business days | confirmed [2027 Sundance Film Festival activation guide and Sundance Institute brand book, Nov 24] |
 | Contact | One public phone number, no public email | confirmed |
 | Sales | Mostly direct group sales by phone; tickets are not sold publicly | confirmed |
 | Platform | Krister's own platform, with payments and accounts being built from about Dec 1 | draft |

@@ -1,6 +1,6 @@
 # Songa foundation set
 
-This repository is the shared memory of Songa, kept as plain Markdown so that people and any AI assistant can read it. It holds what Songa is building, how it sounds, the facts it stands on, who it serves, who does what, its own words, and what has been decided.
+This repository is the shared memory of Songa, kept as plain Markdown so that people and any AI assistant can read it. It holds the story Songa tells, what it is building, how it sounds, the facts it stands on, who it serves, who does what, its own words, and what has been decided.
 
 It is a first draft and an invitation. Much of it is meant to be filled in by the people who carry Songa forward.
 
@@ -18,6 +18,7 @@ Read `00-how-to-use.md` first. It explains how the set works, how to read each s
 | `05-roles-and-team.md` | Who does what and how decisions get made |
 | `06-glossary.md` | Songa's own words and what they mean |
 | `07-living-record.md` | Dated decisions and changes, newest first, and the open questions for Krister |
+| `08-the-songa-story.md` | The manifesto, a walk through the night, the origin and the world of Songa, with questions for Krister (draft) |
 | `CHANGE-REQUESTS.md` | How to ask for a change |
 | `CHANGELOG.md` | Every approved change, newest first: the Living record |
 

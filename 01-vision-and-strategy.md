@@ -37,7 +37,7 @@ Songa is an immersive experience where patrons and artists co-create as peers. I
 - **Built quietly:** the work began about ten years ago. Krister's phrase is "an overnight success, ten years in the making."
 - **Fragmented by growth:** the story lives across more than a dozen URLs (Krister has spoken of 30 or more sites) and many creative voices. History and goals don't always line up yet [Joshua, Nov 23].
 - **Strong on art, lighter on structure:** the creative engine is rich. The business structure and cash-flow model that make it sustainable are still being built [Joshua, Nov 23].
-- **Momentum:** Krister reported a request for the sponsor packages and said Sundance will funnel lead flow to Songa [Krister, email, Nov 18].
+- **Momentum:** Krister reported a request for the sponsor packages and said Sundance Institute will funnel lead flow to Songa [Krister, email, Nov 18].
 - **Riverside:** a second, larger space (about 800 people) is back in play. Krister needs a decision by Dec 15 and put it at 49% on Nov 23. Someone in the Davos and social-impact community may help with an investor and donor deck for it [Krister, Nov 23 call].
 
 ## The next 90 days
@@ -62,7 +62,7 @@ Songa is an immersive experience where patrons and artists co-create as peers. I
 The lines we know of:
 
 - Credentials for individuals (Single Day, First Half, Second Half, All 12 Days). They work like members-only access, so local Boulder people can later become monthly members at a different price [Krister, Nov 23 call].
-- Partner packages from $2.5K to $100K and up, with a Patron tier that carries membership past Sundance [Krister, Nov 23 call].
+- Partner packages from $2.5K to $100K and up, with a Patron tier that carries membership past the Sundance Film Festival [Krister, Nov 23 call].
 - Donors who pay and house artists.
 - Investors, through an idea Krister calls the Patron's Pledge (see Glossary).
 - Hosting other organizations' events, turnkey.
